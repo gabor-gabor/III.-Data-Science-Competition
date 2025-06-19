@@ -50,6 +50,10 @@ This project analyzes user activity data from **Teleprompter LLC**, a company su
 - 🧪 Run targeted A/B tests for top-performing OS segments  
 - 📬 Collaborate with marketing to build behavior-based email campaigns
 
+---
+
+## 🚀 Current Capabilities & Key Features
+- This analysis was initially developed for an internal competition organized by Data36.com data science club, where it earned me the Senior Special Prize ranking.
 
 
 
