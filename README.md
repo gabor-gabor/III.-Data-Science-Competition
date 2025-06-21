@@ -53,7 +53,7 @@ This project analyzes user activity data from [TELEPROMPTER](https://www.telepro
 ---
 
 ## 🚀 Current Capabilities & Key Features
-- This analysis was initially developed for an internal competition organized by Data36.com data science club, where it earned me the Senior Special Prize ranking.
+- This analysis was initially developed for an internal competition organized by [data36.com](https://data36.com/) data science club, where it earned me the Senior Special Prize ranking.
 
 
 
