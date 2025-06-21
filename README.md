@@ -1,7 +1,7 @@
 # 📊 Teleprompter LLC – Trial Conversion Optimization
 
 ## 🧠 Project Overview  
-This project analyzes user activity data from **Teleprompter LLC**, a company supporting online content creators with smooth video recording tools since 2018. With over **10,000 new users every month** and a database exceeding **15 million records**, the aim is to identify **key factors influencing conversion from free trial to paid subscription** — and ultimately, improve business performance.
+This project analyzes user activity data from [TELEPROMPTER](https://www.teleprompter.com/), a company supporting online content creators with smooth video recording tools since 2018. With over **10,000 new users every month** and a database exceeding **15 million records**, the aim is to identify **key factors influencing conversion from free trial to paid subscription** — and ultimately, improve business performance.
 
 ---
 
